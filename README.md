@@ -76,3 +76,4 @@ The script iterates through all PDF files in a specified Google Drive folder, an
 ## Error Handling
 
 The script logs errors in the Google Apps Script logs if issues occur with the API call or if the API returns an unexpected response.
+
